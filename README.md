@@ -27,7 +27,7 @@ Print the Output and end the program.
 
 ## Program:
 ```python
-Developed By  :  HARSHAVARTHAN K P 
+Developed By  :  HARSHAVARTHAN K.P. 
 Register No   :  212224220035
 ```
 
