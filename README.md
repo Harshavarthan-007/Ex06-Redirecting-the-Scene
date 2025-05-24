@@ -27,8 +27,8 @@ Print the Output and end the program.
 
 ## Program:
 ```python
-Developed By  :  SANJAY M
-Register No   :  212223230187
+Developed By  :  HARSHAVARTHAN K P 
+Register No   :  212224220035
 ```
 
 ## CUBE PLAYER:
